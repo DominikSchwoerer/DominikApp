@@ -2,6 +2,7 @@ h1 {
 	font-size: 3em;
 	text-align: center;
 	font-family: Futura, Helvetica , Arial, sans-serif;
+	margin: 50px, 10px;
 }
 
 nav ul {
@@ -22,7 +23,17 @@ nav li {
 	letter-spacing: 0.09em;
 }
 
+
 .site-footer {
   height: 20px;
   background: grey;
+}
+
+.container-about p {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+h1 {
+	padding-top: 40px;
 }
